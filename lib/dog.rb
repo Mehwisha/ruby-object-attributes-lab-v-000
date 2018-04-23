@@ -4,12 +4,12 @@ def name
 @name
 end
 def name=(new_name)
-@name =  name
+@name = new_name
 end
 def breed
 @breed
 end
 def breed=(new_breed)
-@breed = breed
+@breed = new_breed
 end
 end
