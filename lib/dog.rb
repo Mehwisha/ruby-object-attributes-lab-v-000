@@ -14,4 +14,4 @@ def breed=(new_breed)
 end
 end
 fido = Dog.new("fido")
-fido.breed = "Shephard"
+Shephard = Dog.new("Shephard")
